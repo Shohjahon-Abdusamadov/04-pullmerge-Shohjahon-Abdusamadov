@@ -27,4 +27,4 @@ This assignment introduces you how to _Review Pull Requests_ and _Resolve Merge 
 
 _Here you should put the URL of your final repository after finishing the given tutorial_
 - Review Pull Requests:   https://github.com/ttpu/review-pull-requests
-- Resolve Merge Conflicts: 
+- Resolve Merge Conflicts: https://github.com/skills-dev/resolve-merge-conflicts
